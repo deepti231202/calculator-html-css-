@@ -1,0 +1,40 @@
+
+		table { 
+			border: 1px solid rgb(24, 248, 248); 
+			margin-left: auto; 
+			margin-right: auto; 
+            background-color: rgb(24, 248, 248);
+            width:200px;
+            height: 400px;
+            margin: 120px;
+		}
+        
+        h1{
+            text-align:center;
+            color: white;
+            font-family:'Times New Roman', Times, serif;
+            margin-left: 90px;
+        }
+		
+		input[type="button"] { 
+			width: 80px;
+            height:80px;
+			padding: 18px 28px; 
+			background-color:white; 
+			color: rgb(96, 88, 88); 
+			font-size: 24px; 
+		    border: none; 
+			border-radius: 5px;
+            
+		} 
+		
+		input[type="text"] { 
+			padding: 18px 28px; 
+			font-size: 24px; 
+			border: none; 
+			border-radius: 5px; 
+            border: none; 
+            width:190px;
+            height:45px;
+            color: rgb(96, 88, 88);
+		}  
